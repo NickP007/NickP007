@@ -13,10 +13,10 @@ E-mail: nickp@email.ua <br>
 спеціальність: радіоінженер-конструктор-технолог
 
 **Курси:** <br>
-2023  –	 Основи DevOps та Kubernetes у партнерстві з GlobalLogic на Prometheus.org.ua <br>
-2023  –	 Основи Kubernetes, The Linux Foundation на Prometheus.org.ua <br>
-2023  –	 Git для розподіленої розробки програмного забезпечення, The Linux Foundation на Prometheus.org.ua <br>
-2023  –	 Основи Linux, The Linux Foundation на Prometheus.org.ua
+*2023*  –	 Основи DevOps та Kubernetes у партнерстві з GlobalLogic на Prometheus.org.ua <br>
+*2023*  –	 Основи Kubernetes, The Linux Foundation на Prometheus.org.ua <br>
+*2023*  –	 Git для розподіленої розробки програмного забезпечення, The Linux Foundation на Prometheus.org.ua <br>
+*2023*  –	 Основи Linux, The Linux Foundation на Prometheus.org.ua
 
 ### Досвід роботи:
 
