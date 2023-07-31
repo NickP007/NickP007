@@ -12,6 +12,12 @@ E-mail: nickp@email.ua <br>
 *1994 - 1999* – Харківський Державний Технічний Університет Радіоелектроніки, <br>
 спеціальність: радіоінженер-конструктор-технолог
 
+**Курси:**
+2023  –	 Основи DevOps та Kubernetes у партнерстві з GlobalLogic на Prometheus.org.ua <br>
+2023  –	 Основи Kubernetes, The Linux Foundation на Prometheus.org.ua <br>
+2023  –	 Git для розподіленої розробки програмного забезпечення, The Linux Foundation на Prometheus.org.ua <br>
+2023  –	 Основи Linux, The Linux Foundation на Prometheus.org.ua
+
 ### Досвід роботи:
 
 *Липень 2017 - Січень 2018* – Комунальне Підприємство «ПолтаваЕлектроАвтоТранс» Полтавської Міської Ради <br>
